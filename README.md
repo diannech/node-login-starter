@@ -1,3 +1,40 @@
+# Completed Registration & Login
+
+Name: Chong, Dianne
+
+## REGISTRATION
+
+![alt text](screens/reg1.png)
+
+![alt text](screens/reg2.png)
+
+![alt text](screens/reg3.png)
+
+## LOGIN
+
+![alt text](screens/login1.png)
+
+![alt text](screens/login2.png)
+
+![alt text](screens/login3.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Register + Login Application using `express-session`
 This is a starter code for building a simple user authenctication gateway for an application. The code is structured according to the MVC framework.
 
